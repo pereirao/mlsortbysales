@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Mercado Livre - Ordena por vendidos
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Cria um botão na página de resultados que ordena os produtos pela quantidade de ítens vendidos!
 // @author       Alexandre Pereira (pereirao)
 // @match        https://*.mercadolivre.com.br/*
