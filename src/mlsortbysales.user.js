@@ -41,8 +41,8 @@ var mlsort = {
                 text: 'Vendidos',
                 css: {
                     'position': 'fixed',
-                    'top': '95vh',
-                    'left': '95vw',
+                    'top': 'calc(100% - 50px)',
+                    'left': 'calc(100% - 90px)',
                     'display': 'inline-block',
                     'padding': '10px',
                     'background-color': '#FFF059',
